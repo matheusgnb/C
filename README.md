@@ -1,4 +1,4 @@
 # Exercícios Básicos em Linguagem C
- Repositório criado para armazenar exercícios de estrutura sequencial feitos em linguagem C
+ Repositório criado para armazenar exercícios feitos em linguagem C do curso de Ciência da Computação UERJ
 
  
