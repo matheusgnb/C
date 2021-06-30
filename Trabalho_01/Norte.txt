@@ -1,7 +1,0 @@
-****** AGENDA REGIÃO NORTE ******
-
-Tipo do Evento 1: A
-Local do Evento 1: B
-Qualidade do Evento 1: C
-Resumo do Evento 1: D
-
