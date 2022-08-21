@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\Matheus\Documents\GitHub\C\Lista_Exercicios_Curso Select CMakeLists.txt
