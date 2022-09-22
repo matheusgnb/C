@@ -7,11 +7,10 @@ peso ideal, utilizando as seguintes fórmulas (onde h corresponde à altura):
 
 */
 
-#include <math.h>
 #include <stdio.h>
-#include <conio.h>
-#include <stdlib.h>
 
-int main(){
-    
+int main() {
+   setbuf(stdout, NULL);
+   printf("Hello, World!");
+   return 0;
 }
